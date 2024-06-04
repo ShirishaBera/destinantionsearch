@@ -48,11 +48,11 @@
   border: none;
   outline: none;
 }
-.search-input {
+.search-icon {
   height: 20px;
   width: 20px;
 }
-.destination-list {
+.destinations-list {
   display: flex;
   justify-content: center;
   flex-wrap: wrap;
